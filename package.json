@@ -1,8 +1,8 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "[",
+  "main": "server.js",
+  "author": "tbello",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^10.0.0",
